@@ -2,7 +2,7 @@
 package main
 
 import (
-	"github.com/Mrs4s/go-cqhttp/cmd/gocq"
+	 "github.com/Mrs4s/go-cqhttp/cmd/gocq"
 	"github.com/Mrs4s/go-cqhttp/global/terminal"
 
 	_ "github.com/Mrs4s/go-cqhttp/db/leveldb"   // leveldb 数据库支持
